@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[MMF\]
 
 **Group members:**
-- A
-- B
-- C
+- Frederik Emil Larsen
+- Marius Fredagsvik Gunnesmo
+- Moqtader Abdul Rahimzai
 
 This repository contains  
 1. Inaugural project. 
